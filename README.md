@@ -17,13 +17,19 @@
 - 💬 想聊：`感兴趣的话题`
 - ✍️ 也写：[个人博客](https://your-blog.com/)
 
+<br>
+
 ### 卷三 · 几件作品
 
 <table>   <tr>     <td width="50%" valign="top">       <b>📖 项目一名称</b>       <br><br>       一句话说清楚：它解决了什么问题，为什么值得看看。       <br><br>       <a href="https://github.com/your-name/repo-one">翻开这一页 →</a>     </td>     <td width="50%" valign="top">       <b>📖 项目二名称</b>       <br><br>       一句话说清楚：它解决了什么问题，为什么值得看看。       <br><br>       <a href="https://github.com/your-name/repo-two">翻开这一页 →</a>     </td>   </tr> </table>
 
+<br>
+
 ### 卷四 · 一些痕迹
 
-<p align="center">   <img height="165" src="https://github-stats-extended.vercel.app/api?username=zippedalo&show_icons=true&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF&icon_color=8B6F47" />   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF" /> </p> <p align="center">   <img src="https://streak-stats.demolab.com/?user=zippedalo&hide_border=false&border_color=8B6F47&background=FFFFFF00&ring=8B6F47&fire=8B6F47&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=8B6F47" /> </p> <br> <div align="center">✦ ✦ ✦</div> <br> <p align="center">   <em>字写到这里，先歇一歇。谢谢你翻到最后一页。</em> </p>
+<p align="center">   <img height="165" src="https://github-stats-extended.vercel.app/api?username=zippedalo&show_icons=true&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF&icon_color=8B6F47" />   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF" /> </p> <p align="center">   <img src="https://streak-stats.demolab.com/?user=zippedalo&hide_border=false&border_color=8B6F47&background=FFFFFF00&ring=8B6F47&fire=8B6F47&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=8B6F47" /> </p> <br> <div align="center">✦ ✦ ✦</div> <br> <p align="center">   <em>字写到这里，先歇一歇。谢谢你翻到最后一页。</em> </p>
+
+<br>
 
 ## 数据与贡献
 
