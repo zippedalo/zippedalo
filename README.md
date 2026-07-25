@@ -29,4 +29,4 @@
 
 <p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zippedalo&hide_border=true&background=FFFFFF00&ring=6c7a89&fire=6c7a89&currStreakLabel=6c7a89" /> </p> <br> <p align="center">   <em>感谢你路过这里，愿你今天也过得从容。</em> </p>
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
