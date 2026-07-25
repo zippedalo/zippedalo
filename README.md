@@ -42,7 +42,6 @@
   <img src="https://streak-stats.demolab.com/?user=zippedalo&hide_border=false&border_color=8B6F47&background=FFFFFF00&ring=8B6F47&fire=8B6F47&currStreakLabel=8B6F47&currStreakNum=5B4636&sideNums=5B4636&sideLabels=8B6F47&dates=5B4636&stroke=8B6F47" />
 </picture>
 </p> <br> <div align="center">✦ ✦ ✦</div> <br> <p align="center">   <em>字写到这里，先歇一歇。谢谢你翻到最后一页。</em> </p>
-
 <br>
 
 ## 数据与贡献
