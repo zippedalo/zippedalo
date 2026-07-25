@@ -23,8 +23,8 @@
 
 ## 数据与贡献
 
-<p align="center">   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zippedalo&show_icons=true&hide_border=true&theme=default&title_color=6c7a89&text_color=333333&icon_color=6c7a89" />   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=true&title_color=6c7a89&text_color=333333" /> </p> <p align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zippedalo&hide_border=true&background=FFFFFF00&ring=6c7a89&fire=6c7a89&currStreakLabel=6c7a89" /> </p> <br> <p align="center">   <em>感谢你路过这里，愿你今天也过得从容。</em> </p>
+<p align="center">   <img height="165" src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippedalo)](https://github.com/stats-organization/github-stats-extended)" />   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=true&title_color=6c7a89&text_color=333333" /> </p> <p align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zippedalo&hide_border=true&background=FFFFFF00&ring=6c7a89&fire=6c7a89&currStreakLabel=6c7a89" /> </p> <br> <p align="center">   <em>感谢你路过这里，愿你今天也过得从容。</em> </p>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippedalo)](https://github.com/stats-organization/github-stats-extended)
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
