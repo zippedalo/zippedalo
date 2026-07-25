@@ -27,10 +27,27 @@
 
 ### 卷四 · 一些痕迹
 
-<p align="center">   <img height="165" src="https://github-stats-extended.vercel.app/api?username=zippedalo&show_icons=true&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF&icon_color=8B6F47" />   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF" /> </p> <p align="center">   <img src="https://streak-stats.demolab.com/?user=zippedalo&hide_border=false&border_color=8B6F47&background=FFFFFF00&ring=8B6F47&fire=8B6F47&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=8B6F47" /> </p> <br> <div align="center">✦ ✦ ✦</div> <br> <p align="center">   <em>字写到这里，先歇一歇。谢谢你翻到最后一页。</em> </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zippedalo&show_icons=true&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF&icon_color=8B6F47" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=zippedalo&show_icons=true&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=8B6F47&text_color=5B4636&icon_color=8B6F47" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=false&border_color=8B6F47&bg_color=FFFFFF00&title_color=8B6F47&text_color=5B4636" />
+</picture>
+</p> <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zippedalo&hide_border=false&border_color=8B6F47&background=FFFFFF00&ring=8B6F47&fire=8B6F47&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=8B6F47" />
+  <img src="https://streak-stats.demolab.com/?user=zippedalo&hide_border=false&border_color=8B6F47&background=FFFFFF00&ring=8B6F47&fire=8B6F47&currStreakLabel=8B6F47&currStreakNum=5B4636&sideNums=5B4636&sideLabels=8B6F47&dates=5B4636&stroke=8B6F47" />
+</picture>
+</p> <br> <div align="center">✦ ✦ ✦</div> <br> <p align="center">   <em>字写到这里，先歇一歇。谢谢你翻到最后一页。</em> </p>
 
 <br>
 
 ## 数据与贡献
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" />
+</picture>
