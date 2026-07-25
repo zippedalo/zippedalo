@@ -1,30 +1,36 @@
-<h1 align="center">你好，我是 ZippedAlo 👋</h1> <p align="center">   <em>「代码是理性的诗，写下的是逻辑，藏起来的是热爱。」</em> </p> <p align="center">   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-联系我-6c7a89?style=flat-square&logo=gmail&logoColor=white" /></a>   <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-个人博客-6c7a89?style=flat-square&logo=hashnode&logoColor=white" /></a>   <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-关注我-6c7a89?style=flat-square&logo=twitter&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-连接我-6c7a89?style=flat-square&logo=linkedin&logoColor=white" /></a> </p> <br>
+<div align="center">
 
-## 关于我
+<h1 align="center">你好，我是 ZippedAlo 👋</h1> <p align="center">   <em>「<em>纸页微黄，字迹尚新。</em>」</em> </p> <p align="center">   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/%E9%82%AE%E4%BB%B6-%E8%81%94%E7%B3%BB%E6%88%91-8B6F47?style=flat-square&logo=gmail&logoColor=F0E6D2" /></a>   <a href="https://your-blog.com"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%B8%B8%E5%86%99%E5%B8%B8%E6%96%B0-8B6F47?style=flat-square&logo=hashnode&logoColor=F0E6D2" /></a>   <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-%E5%81%B6%E5%B0%94%E7%A2%8E%E5%BF%B5-8B6F47?style=flat-square&logo=twitter&logoColor=F0E6D2" /></a>   <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-%E6%AD%A3%E5%BC%8F%E4%BB%8B%E7%BB%8D-8B6F47?style=flat-square&logo=linkedin&logoColor=F0E6D2" /></a> </p> <br>
 
-一名 **前端 / 后端 / 全栈**（按需修改）工程师，专注于 `你的技术方向`。
+</div> <br> <div align="center">✦ ✦ ✦</div> <br>
 
-平日里喜欢把复杂的问题拆解成简单的模块，也喜欢在深夜给旧代码写注释。相信好的软件应当像好的文字一样——克制、准确、留有余地。
+### 卷一 · 自序
 
-- 🔭 目前在做：`正在进行的项目`
-- 🌱 正在学习：`新技术 / 新语言`
-- 💬 可以和我聊：`感兴趣的话题`
-- ✍️ 偶尔写作：[个人博客](https://your-blog.com/)
+我是一名 `前端 / 后端 / 全栈`（按需修改）工程师，主要做 `你的技术方向` 相关的事。
 
-<br>
+不太喜欢把简单的事情说复杂，也不太喜欢把复杂的事情藏起来。写代码像整理书架，先分类，再摆放，最后才好看。
 
-## 常用工具
+- 🔭 在做：`正在进行的项目`
+- 🌱 在学：`新技术 / 新语言`
+- 💬 想聊：`感兴趣的话题`
+- ✍️ 也写：[个人博客](https://your-blog.com/)
 
-<p align="left">   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript" />   <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript" />   <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" />   <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react" />   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js" />   <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker" /> </p> <br>
+<br> <div align="center">✦ ✦ ✦</div> <br>
 
-## 精选项目
+### 卷二 · 常用工具
 
-<table>   <tr>     <td width="50%">       <h4>📌 项目一名称</h4>       <p>一句话描述这个项目解决了什么问题，为什么值得一看。</p>       <a href="https://github.com/your-name/repo-one">查看仓库 →</a>     </td>     <td width="50%">       <h4>📌 项目二名称</h4>       <p>一句话描述这个项目解决了什么问题，为什么值得一看。</p>       <a href="https://github.com/your-name/repo-two">查看仓库 →</a>     </td>   </tr> </table> <br>
+<p align="center">   <img src="https://img.shields.io/badge/-JavaScript-5B4636?style=flat-square&logo=javascript&logoColor=F0E6D2" />   <img src="https://img.shields.io/badge/-TypeScript-5B4636?style=flat-square&logo=typescript&logoColor=F0E6D2" />   <img src="https://img.shields.io/badge/-Python-5B4636?style=flat-square&logo=python&logoColor=F0E6D2" />   <img src="https://img.shields.io/badge/-React-5B4636?style=flat-square&logo=react&logoColor=F0E6D2" />   <img src="https://img.shields.io/badge/-Node.js-5B4636?style=flat-square&logo=node.js&logoColor=F0E6D2" />   <img src="https://img.shields.io/badge/-Docker-5B4636?style=flat-square&logo=docker&logoColor=F0E6D2" /> </p> <br> <div align="center">✦ ✦ ✦</div> <br>
+
+### 卷三 · 几件作品
+
+<table>   <tr>     <td width="50%" valign="top">       <b>📖 项目一名称</b>       <br><br>       一句话说清楚：它解决了什么问题，为什么值得看看。       <br><br>       <a href="https://github.com/your-name/repo-one">翻开这一页 →</a>     </td>     <td width="50%" valign="top">       <b>📖 项目二名称</b>       <br><br>       一句话说清楚：它解决了什么问题，为什么值得看看。       <br><br>       <a href="https://github.com/your-name/repo-two">翻开这一页 →</a>     </td>   </tr> </table> <br> <div align="center">✦ ✦ ✦</div> <br>
+
+### 卷四 · 一些痕迹
+
+<p align="center">   <img height="165" src="https://github-stats-extended.vercel.app/api?username=zippedalo&show_icons=true&hide_border=true&bg_color=F5EBDD&title_color=8B6F47&text_color=5B4636&icon_color=8B6F47" />   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=true&bg_color=F5EBDD&title_color=8B6F47&text_color=5B4636" /> </p> <p align="center">   <img src="https://streak-stats.demolab.com/?user=zippedalo&hide_border=true&background=F5EBDD&ring=8B6F47&fire=8B6F47&currStreakLabel=5B4636&sideLabels=5B4636&dates=5B4636" /> </p> <br> <div align="center">✦ ✦ ✦</div> <br> <p align="center">   <em>字写到这里，先歇一歇。谢谢你翻到最后一页。</em> </p>
 
 ## 数据与贡献
 
-<p align="center">   <img height="165" src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippedalo)](https://github.com/stats-organization/github-stats-extended)" />   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zippedalo&layout=compact&hide_border=true&title_color=6c7a89&text_color=333333" /> </p> <p align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zippedalo&hide_border=true&background=FFFFFF00&ring=6c7a89&fire=6c7a89&currStreakLabel=6c7a89" /> </p> <br> <p align="center">   <em>感谢你路过这里，愿你今天也过得从容。</em> </p>
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippedalo)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zippedalo&hide_border=true&background=FFFFFF00&ring=6c7a89&fire=6c7a89&currStreakLabel=6c7a89" /> </p> <br> <p align="center">   <em>感谢你路过这里，愿你今天也过得从容。</em> </p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
